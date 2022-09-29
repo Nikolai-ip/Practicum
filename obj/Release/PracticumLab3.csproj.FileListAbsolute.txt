@@ -1,0 +1,8 @@
+D:\VS projects\PracticumLab3\PracticumLab3\bin\Release\PracticumLab3.exe.config
+D:\VS projects\PracticumLab3\PracticumLab3\bin\Release\PracticumLab3.exe
+D:\VS projects\PracticumLab3\PracticumLab3\bin\Release\PracticumLab3.pdb
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Release\PracticumLab3.csproj.AssemblyReference.cache
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Release\PracticumLab3.csproj.SuggestedBindingRedirects.cache
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Release\PracticumLab3.csproj.CoreCompileInputs.cache
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Release\PracticumLab3.exe
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Release\PracticumLab3.pdb

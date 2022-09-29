@@ -1,0 +1,16 @@
+C:\Users\petru\source\repos\PracticumLab3\PracticumLab3\bin\Debug\PracticumLab3.exe.config
+C:\Users\petru\source\repos\PracticumLab3\PracticumLab3\bin\Debug\PracticumLab3.exe
+C:\Users\petru\source\repos\PracticumLab3\PracticumLab3\bin\Debug\PracticumLab3.pdb
+C:\Users\petru\source\repos\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.csproj.AssemblyReference.cache
+C:\Users\petru\source\repos\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\petru\source\repos\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.csproj.CoreCompileInputs.cache
+C:\Users\petru\source\repos\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.exe
+C:\Users\petru\source\repos\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.pdb
+D:\VS projects\PracticumLab3\PracticumLab3\bin\Debug\PracticumLab3.exe.config
+D:\VS projects\PracticumLab3\PracticumLab3\bin\Debug\PracticumLab3.exe
+D:\VS projects\PracticumLab3\PracticumLab3\bin\Debug\PracticumLab3.pdb
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.csproj.AssemblyReference.cache
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.csproj.SuggestedBindingRedirects.cache
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.csproj.CoreCompileInputs.cache
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.exe
+D:\VS projects\PracticumLab3\PracticumLab3\obj\Debug\PracticumLab3.pdb
